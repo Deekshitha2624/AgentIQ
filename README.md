@@ -47,9 +47,38 @@ Performs a lightweight validation to ensure files are consistent.
 
 **Clone the repository**
 
+git clone https://github.com/YOUR_USERNAME/autostarter-project-agent.git
+cd project-agent
+
 **Install dependencies**
 
 pip install -r requirements.txt
+
+**Add your Gemini API key**
+
+Create .env:
+
+GEMINI_API_KEY=your_key_here
+
+**How to Run**
+
+python main.py
+
+**Enter prompts like:**
+
+Create a Flask login system
+
+Create a React todo app
+
+Build a Node.js API with routes
+
+Generate a Python CLI calculator
+
+
+**Output will be generated inside:**
+
+projects/<auto_generated_name>/
+
 
 
 
