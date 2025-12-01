@@ -40,7 +40,18 @@ Performs a lightweight validation to ensure files are consistent.
 
 **ARCHITECTURE:**
 
-http://googleusercontent.com/image_generation_content/1
+
+![unnamed](https://github.com/user-attachments/assets/59cc0eb9-a474-47b8-8da5-1b28c133cecc)
+
+**SETUP INSTRUCTIONS**
+
+**Clone the repository**
+
+**Install dependencies**
+
+pip install -r requirements.txt
+
+
 
 
 
