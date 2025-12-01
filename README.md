@@ -47,7 +47,7 @@ Performs a lightweight validation to ensure files are consistent.
 
 **Clone the repository**
 
-git clone https://github.com/YOUR_USERNAME/autostarter-project-agent.git
+git clone [https://github.com/YOUR_USERNAME/autostarter-project-agent.git](https://github.com/Deekshitha2624/AgentIQ)
 cd project-agent
 
 **Install dependencies**
